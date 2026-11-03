@@ -4,13 +4,13 @@
 
 开始日期：2026-11-02
 
-- [ ] 1 [Hello World](https://doc.rust-lang.org/rust-by-example/hello.html)
-    - [ ] 1.1 [Comments](https://doc.rust-lang.org/rust-by-example/hello/comment.html)
-    - [ ] 1.2 [Formatted print](https://doc.rust-lang.org/rust-by-example/hello/print.html)
-        - [ ] 1.2.1 [Debug](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
-        - [ ] 1.2.2 [Display](https://doc.rust-lang.org/rust-by-example/hello/print/print_display.html)
-            - [ ] 1.2.2.1 [Testcase: List](https://doc.rust-lang.org/rust-by-example/hello/print/print_display/testcase_list.html)
-        - [ ] 1.2.3 [Formatting](https://doc.rust-lang.org/rust-by-example/hello/print/fmt.html)
+- [x] 1 [Hello World](https://doc.rust-lang.org/rust-by-example/hello.html) ✅ 2026-11-02
+    - [x] 1.1 [Comments](https://doc.rust-lang.org/rust-by-example/hello/comment.html)
+    - [x] 1.2 [Formatted print](https://doc.rust-lang.org/rust-by-example/hello/print.html)
+        - [x] 1.2.1 [Debug](https://doc.rust-lang.org/rust-by-example/hello/print/print_debug.html)
+        - [x] 1.2.2 [Display](https://doc.rust-lang.org/rust-by-example/hello/print/print_display.html)
+            - [x] 1.2.2.1 [Testcase: List](https://doc.rust-lang.org/rust-by-example/hello/print/print_display/testcase_list.html)
+        - [x] 1.2.3 [Formatting](https://doc.rust-lang.org/rust-by-example/hello/print/fmt.html)
 - [ ] 2 [Primitives](https://doc.rust-lang.org/rust-by-example/primitives.html)
     - [ ] 2.1 [Literals and operators](https://doc.rust-lang.org/rust-by-example/primitives/literals.html)
     - [ ] 2.2 [Tuples](https://doc.rust-lang.org/rust-by-example/primitives/tuples.html)
